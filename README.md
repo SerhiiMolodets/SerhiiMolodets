@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&width=435&lines=IOS+Developer+%EF%A3%BF;Create+code;+Always+learning)](https://git.io/typing-svg)
 
  <p align="left">
-      <a href="https://github.com/haze998?tab=followers">
+      <a href="https://github.com/SerhiiMolodets?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/SerhiiMolodets?color=blue&labelColor=blue&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/haze998?tab=stars">
+      <a href="https://github.com/SerhiiMolodets?tab=stars">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/SerhiiMolodets?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>
    </p>
 
@@ -64,7 +64,8 @@
 
 ### [Currency Converter](https://github.com/SerhiiMolodets/CurrencyConverter)
 
-![](https://user-images.githubusercontent.com/102597481/250352831-114c1d85-3779-4be1-ba52-da8d0e3767fd.png)
+![CurrencyConverter](https://github.com/SerhiiMolodets/SerhiiMolodets/assets/108882250/92a2b1b0-51dc-4dc2-b9bc-1dea84c58bb1)
+
 
 <!--📏LINE-->
 <p align="center">
@@ -72,7 +73,7 @@
 
 ### [SkyLab Education](https://github.com/skylab-main/ios)
 
-![](https://user-images.githubusercontent.com/102597481/232601071-6afe8027-b432-48dc-904e-adc370c011a2.png)
+![SkyLab](https://github.com/SerhiiMolodets/SerhiiMolodets/assets/108882250/8900d734-956a-4324-ad4d-5fdea4db0d58)
 
 <!--📏LINE-->
 <p align="center">
@@ -80,7 +81,8 @@
 
 ### [The MovieDB App](https://github.com/SerhiiMolodets/TheMovieDBapp)
 
-![](https://user-images.githubusercontent.com/102597481/232600187-16efba8c-efe8-473d-ac91-002c2b435be9.png)
+![TMdb](https://github.com/SerhiiMolodets/SerhiiMolodets/assets/108882250/23b2b5b2-c1a9-4643-9680-ae55ffb21b47)
+
 
 <!--📏LINE-->
 <p align="center">
@@ -101,8 +103,8 @@
 ### ✉️ Contacts
 
 [<img height=50 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/evgeniy-d-b11aa825a/)  [<img height=50 
-src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"/>]()
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/mrmolodets/)  [<img height=50 
+src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"/>](https://t.me/mr_molodets)
 
 <!--📏LINE-->
 <p align="center">
@@ -110,7 +112,7 @@ src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoCo
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=haze998&color=brightgreen&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=SerhiiMolodets&color=brightgreen&style=for-the-badge">
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
